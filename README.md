@@ -13,7 +13,7 @@
 ## Lessons
 
 - [x] ~~_Part 01: The Basics_~~ [2024-04-28]
-- [ ] Part 02
+- [x] ~~_Part 02_~~ [2024-04-28]
 - [ ] Part 03
 - [ ] Part 04
 - [ ] Part 05
